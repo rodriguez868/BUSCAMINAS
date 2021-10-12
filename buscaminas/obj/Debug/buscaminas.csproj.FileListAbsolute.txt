@@ -1,0 +1,7 @@
+C:\Users\anderson\source\repos\buscaminas\buscaminas\bin\Debug\buscaminas.exe.config
+C:\Users\anderson\source\repos\buscaminas\buscaminas\bin\Debug\buscaminas.exe
+C:\Users\anderson\source\repos\buscaminas\buscaminas\bin\Debug\buscaminas.pdb
+C:\Users\anderson\source\repos\buscaminas\buscaminas\obj\Debug\buscaminas.csproj.AssemblyReference.cache
+C:\Users\anderson\source\repos\buscaminas\buscaminas\obj\Debug\buscaminas.csproj.CoreCompileInputs.cache
+C:\Users\anderson\source\repos\buscaminas\buscaminas\obj\Debug\buscaminas.exe
+C:\Users\anderson\source\repos\buscaminas\buscaminas\obj\Debug\buscaminas.pdb
